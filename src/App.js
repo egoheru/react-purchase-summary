@@ -78,3 +78,4 @@ const mapStateToProps = state => ({
 export default connect(mapStateToProps, {
   handleChange
 })(App);
+
